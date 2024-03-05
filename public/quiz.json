@@ -1,0 +1,273 @@
+[
+    {
+        "id": "01",
+        "question" : "1.In a certain code language, if the word PANCREAS is coded  as SAERCNAP, then how is the word STADIUM coded in that language?",
+        "options": ["MUDIATS","MUDIAST","MUIDATS","MIUDATS","ARSDMUI"],
+        "answer": "MUIDATS"
+    },
+    {
+        "id": "02",
+        "question" : "2.In a certain code language, if the word CIRCUMSTANCE is coded as CRUSACICMTNE, then how is the word HAPPINESS coded in that language?",
+        "options": ["HPEISAPNS","HPISEAPNS","HPIESPANS","HPIESAPNS","APNSSEIPH"],
+        "answer": "HPIESAPNS"
+    },
+    {
+        "id": "03",
+        "question" : "3.In a certain code language, if the word HYPERBOLA is coded as YPROHEBLA, then how is the word SENTIMENT coded in that language?",
+        "options": ["ENEISTMNT","ENIESMTNT","ENIESTMNT","ENIESTNTM","EIESNTMNT"],
+        "answer": "ENIESTMNT"
+    },
+    {
+        "id": "04",
+        "question" : "4. In a certain code language, if the word REGISTRATION is coded as TSIGERNOITAR, then how is the word ACCURATE coded in that language?",
+        "options": ["UCCAETAR","UACCETAR","UCACETAR","UCCATEAR","UCAAECTR"],
+        "answer": "UCCAETAR"
+    },
+    {
+        "id": "05",
+        "question" : "5.In a certain code language, if the word SANDWICH is coded as ADSHCIWN, then how is the word GEOMETRY coded in that language?",
+        "options": ["EGMRTYEO","EMGRYTEO","EMGRYETO","EMGYRETO","EMGYRTEO"],
+        "answer": "EMGYRTEO"
+    },
+    {
+        "id": "06",
+        "question" : "6.In a certain code language, if the word DECORATE is coded as EDOCARET, then how is the word HYGROMETER coded in that language?",
+        "options": ["YHRMGOTERE "," YHRGMTOERE","YHRGMOTERE ","YHRGMOTREE","YHGRMOTREE"],
+        "answer": "YHRGMOTERE"
+    },
+   {
+       "id":"07",
+       "question":"7.In a certain code language, if the word CUSTOMER is coded as RCEUMSOT, then how is the word IMMACULATE coded in that language?",
+       "options":["EITMMALAUC ","EITMAMLAUC","ETEMAMALUC ","EITMMALUAC","EMATCLMIU"],
+       "answer":"EITMAMLAUC"
+   },
+   {
+    "id":"08",
+    "question":"8.In a certain code language, if the word LIBERAL is coded as MJCFSBM, then how is the word REDUCTION coded in that language?",
+    "options":["EDCTBSHNM","SFEVDUJPO","SFEVCTJPO","SFDUCTJPO","SFDEVDJPO"],
+    "answer":"SFEVDUJPO"
+   },
+   {
+    "id":"09",
+    "question":"9.In a certain code language, if the word STRUCTURE is coded as TVUYHZBZN, then how is the word REMEDY coded in that language?",
+    "options":["SGPIJE","SGPEJD","SGPIHE","SGPIIE","GPGISE"],
+    "answer":"SGPIIE"
+   },
+   {
+    "id":"10",
+    "question":"10.In a certain code language, if the word MAJESTY is coded as NZKDTSZ, then which word is coded as HKJLQRF in that language?",
+    "options":["GLORIFY","GLISTEN","GLOWING","GLIMPSE","GLITTER"],
+    "answer":"GLIMPSE"
+   },
+   {
+    "id":"11",
+    "question":"11.In a certain code language if the word IMPORT is coded as KPUVCG, then what is coded as MISCHIEF?",
+    "options":["KFNVWVNM","OLXYJSVVY","OLXIRVWY","KFNWVWNM","KLMPRSVN"],
+    "answer":"KFNVWVNM"
+   },
+   {
+    "id":"12",
+    "question":"12.In a certain code language, if the word MINUTE is coded as NMWKSO, then what is the code for the word REIGN?",
+    "options":["SIPVM","SLRVM","SIRTN","SLRWM","SIRWM"],
+    "answer":"SIRWM"
+   },
+   {
+    "id":"13",
+    "question":"13.In a certain code language if the word MIRAGE is coded as ZRJBNJ, then how is the word INTRUDE coded in that language?",
+    "options":["RBPHNJL","RDPIPAJ","RBNJPHJ","RBJLPHJ","RBDHLJN"],
+    "answer":"RBNJPHJ"
+   },
+   {
+    "id":"14",
+    "question":"14.In a certain code language, if the word GROUND is coded as HPRQSX, then what is coded as NOURISH?",
+    "options":["OMXNNMO","MQRVDYA","MQRTFXA","OMVNMNO","MQVNMPR"],
+    "answer":"MQRTFXA"
+   },
+   {
+    "id":"15",
+    "question":"15.In a certain code language, if the word GROUND is coded as HPRQSX, then what is coded as NOURISH?",
+    "options":["FRUBUNGJ","HRUDNPJL","FRUBNPLH","HRDLJNLJ","FRDBNPLH"],
+    "answer":"FRUBUNGJ"
+   },
+   {
+    "id":"16",
+    "question":"16.In a certain code language, if the word SEARCH is coded as IDSBFT, then how is the word FURNISH coded in that language?",
+    "options":["ITKNSVG","ITJORWG","ITJOSVG","ITHNRVG","ITLOSWG"],
+    "answer":"ITJOSVG"
+   },
+   {
+    "id":"17",
+    "question":"17.In a certain code language, if the word CERTIFY is coded as BURGIVX, then how is the word ADJACENT coded in that language?",
+    "options":["ZWQZXVMG","GMVXZQWZ","RMVWYJWH","GMXVWRVZ","RMKLPRNG"],
+    "answer":"GMVXZQWH"
+   },
+   {
+    "id":"18",
+    "question":"18.In a certain code language if the word SYMPHONY is coded as HBNKSLMB, then how is the word PICKLE coded in that language?",
+    "options":["KRXSNR","KRWPLV","KIXPOV","KIXPLV","KRXPOV"],
+    "answer":"KRXPOV"
+   },
+   {
+    "id":"19",
+    "question":"19.In a certain code language, if the word MYSTERY is coded as ZLFGREL, then how is the word PURSUE coded in that language?",
+    "options":["KFIHFV","CHFEIR","CHEFHR","CHEGIR","CHIRVS"],
+    "answer":"CHEFHR"
+   },
+   {
+    "id":"20",
+    "question":"20.In a certain code language, if the word BARRICADE is coded as AABCDEIRR, then how is the word INDIVIDUAL coded in that language",
+    "options":["ADDIIILNUV","ADDIIINLUV","AIIIUDDLNV","ADDINILUV","NIIULIDVDA"],
+    "answer":"ADDIIILNUV"
+   },
+   {
+    "id":"21",
+    "question":"21.In a certain code language, if the word MATERIALS is coded as DSZLSTMBJ, then how is the word REASONING coded in that language?",
+    "options":["RZDQPHOJO","PFBTPOJOH","HOJOPQDZR","RZDQPOJOH","NONE OF THESE"],
+    "answer":"RZDQPHOJO"
+   },
+   {
+    "id":"22",
+    "question":"22.In a certain code language, if the word PLATINUM is coded as AIUPLTNM, then how is the word ADVENTURE coded in that language?",
+    "options":["AEEUDNRTV","ADEENRTUV","AEUEDNTVR","AEUEDVNTR","AEEUVTRND"],
+    "answer":"AEUEDVNTR"
+   },
+   {
+    "id":"23",
+    "question":"23.In a certain code language, if the word ADVANTAGE is coded as EFWEPVEHI, then how is the word DUPLICATE coded in that language?",
+    "options":["EAQMODEUF","FAQMODEUI","FAQMODEVI","FAQMJDEVI","EAQMODEVI"],
+    "answer":"FAQMODEVI"
+   },
+   {
+    "id":"24",
+    "question":"24.In a certain code language, if the word FANTASTIC is coded as SMZEBDJUT, then how is the word DIRECTION coded in that language?",
+    "options":["EHQDDUJPO","DQHCDOPJU","DQHEUJPOD","DOPJUDQHE","NONE OF THESE"],
+    "answer":"DQHCDOPJU"
+   },
+   {
+    "id":"25",
+    "question":"25.In a certain code language, if MENTION = 49 and NEUROTIC = 64, then MARVELLOUS =?",
+    "options":["81","88","64","121","100"],
+    "answer":"100"
+   },
+   {
+    "id":"26",
+    "question":"26.In a certain code language, if CABINET = 70 and BEAUTY = 60, then PRODUCTION =?",
+    "options":["90","100","110","120","132"],
+    "answer":"100"
+   },
+   {
+    "id":"27",
+    "question":"27.In a certain code language, if IMPEND = 61 and DISH = 40, then FRUIT =?",
+    "options":["86","68","74","76","98"],
+    "answer":"74"
+   },
+   {
+    "id":"28",
+    "question":"28.In a certain code language, if BUG = 90 and ALMS = 180, then CADET =?",
+    "options":["153","165","175","148","185"],
+    "answer":"165"
+   },
+   {
+    "id":"29",
+    "question":"29.In a certain code language, if INFER = 25 and JERSEY = 28, then CHOICE =?",
+    "options":["34","39","41","47","49"],
+    "answer":"34"
+   },
+   {
+    "id":"30",
+    "question":"30.In a certain code language, if FRAME = 48 and HURDLE = 74, then FIGMENT =?",
+    "options":["74","89","91","87","81"],
+    "answer":"81"
+   },
+   {
+    "id":"31",
+    "question":"31.In a certain code language, if Violet is called as Green, Green is called as Red, Red is called as Brown, Brown is called as Orange, Orange is called as Yellow, Yellow is called as Blue and Blue is called as Indigo, then what is the colour of human blood in that language?",
+    "options":["RED","BLUE","GREEN","VIOLET","BROWN"],
+    "answer":"BROWN"
+   },
+   {
+    "id":"32",
+    "question":"32.In a certain code language, if Pen means Eraser, Eraser means Book, Book means Scale, Scale means Sharpener, Sharpener means Duster and Duster means Table, then what is the name of the object that is used to clean the black board in that language?",
+    "options":["DUSTER","SHARPENER","SCALE","TABLE","BOOK"],
+    "answer":"SHARPNER"
+   },
+   {
+    "id":"33",
+    "question":"33.In a certain code, language Bread is called Butter, Butter is called Milk, Milk is called Shirt, Shirt is called Shoe, Shoe is called Bicycle, Bicycle is called Watch, Watch is called Aeroplane and Aeroplane is called Ship, then which of the following indicates time in that language?",
+    "options":["WATCH","BICYCLE","MILK","SHIP","AEROPLANE"],
+    "answer":"AEROPLANE"
+   },
+   {
+    "id":"34",
+    "question":"34.In a certain code language, the letters in the English alphabet are coded as follows, based on their place values. Each letter with a multiple of 2 as place value are given 1 as code, and the ones with a multiple of 3 as place value are given 2 as code, in case of a clash, 1 prevails and the rest of the letters are given 3 as code. Then what is the code for the word ALPHABET?",
+    "options":["31313113","31113131","13331313","31131131","13113313"],
+    "answer":"31113131"
+   },
+   {
+    "id":"35",
+    "question":"35.In a certain code language, if each letter in the English alphabet, with an odd numbered value is given a code of 2 and each of the remaining letters is coded as 1, then what is the code for the word SALVATION?",
+    "options":["211221121","211121212","221112122","221121221","222111222"],
+    "answer":"221121221"
+   },
+   {
+    "id":"36",
+    "question":"36.In a certain code language, if each letter in the English alphabet, which has prime number place value is coded as 1 and each of the remaining letters are coded as 2, then what is the code for the word LANGUAGE?",
+    "options":["12211221","11212121","22212211","22212121","11221122"],
+    "answer":"22212211"
+   },
+   {
+    "id":"37",
+    "question":"37.In a certain code language, if each vowel of the English alphabet is coded as 3 and each of the consonants is coded as 4, then what is the code for the word DICTIONARY?",
+    "options":["4344334344","4344334443","4334334443","4344333444","4344344333"],
+    "answer":"4344334344"
+   },
+   {
+    "id":"38",
+    "question":"38.In a certain code language, if the word MANAGEMENT is coded as DAEAGEDEEB, then how is the word TREASURE coded in that language?",
+    "options":["BIFAIDHE","BIEAJCIE","BJEAIDCE","BJFAIJCE","NONE OF THESE"],
+    "answer":"BIEDJCIE"
+   },
+   {
+    "id":"39",
+    "question":"39.In a certain code language, if APPLE is coded as 28726, LEAVE is coded as 76987 and LETTER is coded as 376347, then what is the code for the word TRAVELLER?",
+    "options":["348967764","349876764","348796674","348976674","348969879"],
+    "answer":"348976674"
+   },
+   {
+    "id":"40",
+    "question":"40.If PAPER is coded as 18/5/16/1/16,then what is the code for DRUNK?",
+    "options":["11/21/14/18/4","4/18/21/14/11","11/14/21/8/41","21/14/11/4/18","11/14/21/18/4"],
+    "answer":"11/14/21/18/4"
+   },
+   {
+    "id":"41",
+    "question":"41.If LUCK is coded as 12/63/11,then what is the code for LAND?",
+    "options":["12/14/4","1/214/4","12/182/4","12/1/96","12/1/56"],
+    "answer":"12/14/4"
+   },
+   {
+    "id":"42",
+    "question":"42.If DRAW is coded as 22/24 and STRONG is coded as 39/33/21, then what is the code for CARE?",
+    "options":["4/23","4/19/23","3/19/5","3/23","3/90"],
+    "answer":"4/23"
+   },
+   {
+    "id":"43",
+    "question":"43.If 8 is coded as sqrt 64,then what is the code 6?",
+    "options":["lmno 36 ","cbrt 216 ","sqrt 1296","ftrt 256","sqrt 216"],
+    "answer":"CBRT 216"
+   },
+   {
+    "id":"44",
+    "question":"44.If BAD is coded as 25 –2 1017, then what is the code for DEAF?",
+    "options":["1017 3118 –2 7769"," 1017 618 –2 7769","1017 3118 –2 1289","1017 618 –2 1289","1017 3118 –2 4103"],
+    "answer":"1017 3118 –2 7769"
+   },
+   {
+    "id":"45",
+    "question":"45.If PLAN is coded as 240 128 –15 180, then what is the code for FORM?",
+    "options":["20 209 306 156","20 225 330 182","30 210 308 156","30 210 306 153","20 209 308 153"],
+    "answer":"20 225 330 182"
+   }
+   
+]
